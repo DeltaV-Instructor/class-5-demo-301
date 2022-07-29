@@ -4,7 +4,7 @@ import React from 'react'
   render() {
     return (
       <>
-        <h1>Welcome to the Header</h1>
+        <h1>Welcome to the City Explorer!</h1>
       </>
     )
   }
